@@ -21,6 +21,19 @@ A professional multi-timeframe EMA cloud strategy with ATR volatility filtering.
 
 [View Documentation →](MTF_Strategy_Visual/README.md)
 
+### 2. [Forex Swing MA+ATR](Forex_Swing_MA_ATR/)
+Python backtest of the Moving Average + ATR Forex Swing Trading Strategy from TradeThatSwing.com.
+
+**Features:**
+- 20/100 SMA trend-following strategy
+- ATR volatility filter
+- Python backtesting with trade-by-trade results
+- Supports CSV data files and Yahoo Finance
+
+**Best For:** Forex swing trading on daily timeframe
+
+[View Documentation →](Forex_Swing_MA_ATR/README.md)
+
 ## Installation
 
 Each indicator folder contains:
